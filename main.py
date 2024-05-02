@@ -10,7 +10,7 @@ git com -m ' нужно ввести сообщение' добавление б
 
 """
 
-
+status=1
 """
 добавление текстового редакотора для git commit
 git config --global core.editor "'C:\Program Files\Sublime Text/subl.exe' -w"
@@ -43,4 +43,10 @@ p - распечатайте текущий фрагмент
 one_d=""
 two_d=""
 three_d=""
+
+anone_1=""
+
+dif="fff"
+
+
 
