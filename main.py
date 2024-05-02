@@ -1,15 +1,9 @@
-d="dfdfdf"
-
-а:str="fffff"
-
-
-d=8+8+8+8
-
-
 
 """
+добавление текстового редакотора для git commit
 git config --global core.editor "'C:\Program Files\Sublime Text/subl.exe' -w"
 """
 
-
-"git config"
+"""
+после выполненеия команд на вывод количесвта информации нажимаем q
+"""

@@ -1,1 +1,2 @@
-
+git com -- git commit
+git p -- git push
