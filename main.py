@@ -24,3 +24,7 @@ git config --global core.editor "'C:\Program Files\Sublime Text/subl.exe' -w"
 git show --pretty=fuller
 
 """
+one_d=""
+two_d=""
+three_d=""
+
