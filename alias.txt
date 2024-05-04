@@ -1,2 +1,4 @@
 git com -- git commit
 git p -- git push
+git allcom -- git add . git com
+git acp -- git add . git com git push
